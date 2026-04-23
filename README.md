@@ -25,3 +25,13 @@ To determine the effect of prompt variations on the following factors:
 
 ## Visuals
 Check out the figures directory for graphs.
+## Results
+
+### Distribution
+![Fig1](figures/fig1.png)
+
+### Prompt Comparison
+![Fig2](figures/fig2.png)
+
+### Variability
+![Fig3](figures/fig3.png)
