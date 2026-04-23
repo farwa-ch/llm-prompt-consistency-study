@@ -1,0 +1,7 @@
+query,prompt_type,similarity
+Q1,baseline,0.92
+Q1,paraphrase,0.85
+Q1,adversarial,0.65
+Q2,baseline,0.91
+Q2,paraphrase,0.82
+Q2,adversarial,0.60
